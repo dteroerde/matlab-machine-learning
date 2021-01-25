@@ -1,4 +1,4 @@
-# matlabMachineLearning
+# Some Matlab code for machine learning
 
 :memo: Exercise of a study course by using
 
